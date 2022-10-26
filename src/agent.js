@@ -1,3 +1,4 @@
+// const BigNumber = require("bignumber.js");
 const { Finding, FindingSeverity, FindingType } = require("forta-agent");
 
 const ERC20_TRANSFER_EVENT =
