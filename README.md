@@ -7,7 +7,6 @@ This agent detects transactions with large Tether transfers
 ## Supported Chains
 
 - Ethereum
-- List any other chains this agent can support e.g. BSC
 
 ## Alerts
 
